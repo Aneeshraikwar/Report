@@ -48,7 +48,7 @@ A well-crafted prompt typically includes:
 ```
 A cat sitting on a chair
 ```
-![Logo]([blob:null/0fa5abb1-8a36-4983-a8c7-e032ce34cb25](https://res.cloudinary.com/dbb431z9n/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1779941449/is-it-a-mistake-to-pet-cats-seen-walking-on-the-street-v0-3rrwuvmeprrc1_wltsxs.jpg))
+![Logo](https://res.cloudinary.com/dbb431z9n/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1779941449/is-it-a-mistake-to-pet-cats-seen-walking-on-the-street-v0-3rrwuvmeprrc1_wltsxs.jpg)
 ### Improved Prompt
 
 ```
