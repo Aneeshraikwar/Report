@@ -143,6 +143,25 @@ A young businessman walking in a modern city, sunset lighting, cinematic shot, s
 * Shift from technical prompts to natural language
 
 ---
+# Leading AI Generators
+
+This repository provides a snapshot of the premier AI video and image generation models leading the industry.
+
+## 🎥 Leading AI Video Generators
+
+* **Google Veo 3.1 & Gemini Omni:** The benchmarks for cinematic realism, multi-shot narratives, and high-fidelity, native audio integration.
+* **OpenAI Sora 2:** The premier tool for extreme photorealism and complex, continuous narrative storytelling.
+* **ByteDance Seedance 2.0:** The leader in aesthetic consistency and handling permissive inputs (up to 9 reference images alongside audio and text prompts).
+* **Kling 3.0 & Runway Gen-4.5:** The go-to models for advanced camera motion controls, realistic human faces, and dialogue lip-syncs.
+
+## 🖼️ Leading AI Image Generators
+
+* **Google Nano Banana 2:** The top choice for photorealism, character consistency, and accurate text rendering within images.
+* **Black Forest Labs FLUX.2:** The premier open-source and professional family of models specializing in production-grade, sharp, 4K realistic textures.
+* **Midjourney v7:** The benchmark for artistic flair, creative concepting, and luminous lighting in static artwork.
+* **Ideogram 3.0:** The industry favorite for typography, logos, and generating error-free, text-heavy graphics.
+
+---
 
 ## 🧪 Conclusion
 
