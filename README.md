@@ -48,13 +48,14 @@ A well-crafted prompt typically includes:
 ```
 A cat sitting on a chair
 ```
-![Logo](https://res.cloudinary.com/dbb431z9n/image/upload/w_500,ar_1:1,c_fill,g_auto,e_art:hokusai/v1779941449/is-it-a-mistake-to-pet-cats-seen-walking-on-the-street-v0-3rrwuvmeprrc1_wltsxs.jpg)
+![Logo](https://res.cloudinary.com/dbb431z9n/image/upload/w_200,ar_1:1,c_fill,g_auto,e_art:hokusai/v1779942296/flatten_crop_down_webp_auto_jpeg_quality_70_tcdtri.jpg)
+
 ### Improved Prompt
 
 ```
 A fluffy orange cat sitting on a wooden chair, soft natural lighting, shallow depth of field, ultra realistic, 4K
 ```
-
+![Logo](https://res.cloudinary.com/dbb431z9n/image/upload/w_300,ar_1:1,c_fill,g_auto,e_art:hokusai/v1779942724/Gemini_Generated_Image_vs2pzpvs2pzpvs2p_iwv19z.png)
 ---
 
 ## 🎥 Video Prompt Examples
@@ -64,13 +65,14 @@ A fluffy orange cat sitting on a wooden chair, soft natural lighting, shallow de
 ```
 A man walking
 ```
+![Logo](https://res.cloudinary.com/dbb431z9n/image/upload/w_200,ar_1:1,c_fill,g_auto,e_art:hokusai/v1779943043/man-7258734_960_720_gxruej.jpg)
 
 ### Improved Prompt
 
 ```
 A cinematic shot of a man walking through a foggy forest, slow motion, soft light rays, dramatic atmosphere, 4K
 ```
-
+![Logo](https://res.cloudinary.com/dbb431z9n/image/upload/w_300,ar_1:1,c_fill,g_auto,e_art:hokusai/v1779943753/Gemini_Generated_Image_i2j4m6i2j4m6i2j4_n3vh2s.png)
 ---
 
 ## ⚙️ Prompt Engineering Techniques
